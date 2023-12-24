@@ -6,5 +6,4 @@ nltk
 seaborn
 wordcloud
 xgboost
-pickle
 streamlit
